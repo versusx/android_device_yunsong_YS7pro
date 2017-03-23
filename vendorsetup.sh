@@ -1,0 +1,2 @@
+add_lunch_combo cm_YS7pro-userdebug
+add_lunch_combo cm_YS7pro-eng
